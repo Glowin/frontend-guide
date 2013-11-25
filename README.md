@@ -30,3 +30,9 @@ HTML
 
 - [关于JPEG压缩优化的一些趣事](http://yuguo.us/weblog/clever-jpeg-optimization-techniques/)  [(英文)](http://www.smashingmagazine.com/2009/07/01/clever-jpeg-optimization-techniques/)
 - [图片格式与设计那点事儿](http://ued.taobao.com/blog/2010/12/jpg_png/) - [PNG图片优化：Clever PNG Optimization Techniques](http://www.smashingmagazine.com/2009/07/15/clever-png-optimization-techniques/) - [JPEG图片优化：ever JPEG Optimization Techniques](http://www.smashingmagazine.com/2009/07/01/clever-jpeg-optimization-techniques/)
+
+
+工具：
+-------------------------
+
+- [写出好的 commit message](http://ruby-china.org/topics/15737)
