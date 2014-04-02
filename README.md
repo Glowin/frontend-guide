@@ -21,7 +21,6 @@ HTML
 - [給網頁設計師的建議](http://blog.evendesign.tw/post/38567423298/web-designer)
 - [【译】编写高性能JavaScript](http://www.alloyteam.com/2012/11/performance-writing-efficient-javascript/)
 - [网站开发人员应该知道的61件事](http://www.ruanyifeng.com/blog/2010/11/61_things_every_web_developer_should_know.html)
-- [High Performance Networking in Google Chrome](http://www.igvita.com/posa/high-performance-networking-in-google-chrome/)
 - [google的html/css规范指南](http://www.36ria.com/5249)
 
  
@@ -36,6 +35,7 @@ HTML
 [Google Chrome中的高性能网络(一) - 求索 - 博客频道 - CSDN.NET](http://blog.csdn.net/horkychen/article/details/9708103)
 [Google Chrome中的高性能网络(二) - 求索 - 博客频道 - CSDN.NET](http://blog.csdn.net/horkychen/article/details/10421523)
 [Google Chrome中的高性能网络 (三) - 求索 - 博客频道 - CSDN.NET](http://blog.csdn.net/horkychen/article/details/10878489)
+- [High Performance Networking in Google Chrome](http://www.igvita.com/posa/high-performance-networking-in-google-chrome/)
 
 工具：
 -------------------------
