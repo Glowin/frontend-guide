@@ -37,6 +37,10 @@ HTML
 [Google Chrome中的高性能网络 (三) - 求索 - 博客频道 - CSDN.NET](http://blog.csdn.net/horkychen/article/details/10878489)
 - [High Performance Networking in Google Chrome](http://www.igvita.com/posa/high-performance-networking-in-google-chrome/)
 
+开源项目：
+-------------------------
+[The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+
 工具：
 -------------------------
 
