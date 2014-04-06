@@ -23,6 +23,10 @@ HTML
 - [网站开发人员应该知道的61件事](http://www.ruanyifeng.com/blog/2010/11/61_things_every_web_developer_should_know.html)
 - [google的html/css规范指南](http://www.36ria.com/5249)
 
+JavaScript
+-------------------------
+
+- [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
  
 设计：
 -------------------------
