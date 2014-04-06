@@ -36,9 +36,9 @@ JavaScript
 
 浏览器性能：
 -------------------------
-[Google Chrome中的高性能网络(一) - 求索 - 博客频道 - CSDN.NET](http://blog.csdn.net/horkychen/article/details/9708103)
-[Google Chrome中的高性能网络(二) - 求索 - 博客频道 - CSDN.NET](http://blog.csdn.net/horkychen/article/details/10421523)
-[Google Chrome中的高性能网络 (三) - 求索 - 博客频道 - CSDN.NET](http://blog.csdn.net/horkychen/article/details/10878489)
+- [Google Chrome中的高性能网络(一) - 求索 - 博客频道 - CSDN.NET](http://blog.csdn.net/horkychen/article/details/9708103)
+- [Google Chrome中的高性能网络(二) - 求索 - 博客频道 - CSDN.NET](http://blog.csdn.net/horkychen/article/details/10421523)
+- [Google Chrome中的高性能网络 (三) - 求索 - 博客频道 - CSDN.NET](http://blog.csdn.net/horkychen/article/details/10878489)
 - [High Performance Networking in Google Chrome](http://www.igvita.com/posa/high-performance-networking-in-google-chrome/)
 
 开源项目：
