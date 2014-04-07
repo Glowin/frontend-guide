@@ -27,6 +27,7 @@ JavaScript
 -------------------------
 
 - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+- [Superhero.js](http://superherojs.com/)
  
 设计：
 -------------------------
